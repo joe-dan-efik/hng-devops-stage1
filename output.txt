@@ -1,0 +1,5 @@
+Slack Email: olahmathias@gmail.com
+Slack Username: @omats1
+ Experience: This project provided valuable hands-on experience in infrastructure automation through the **HNG Internship (DevOps Track).
+  I designed and implemented a fully automated deployment system that integrates Docker, NGINX, and custom shell scripting achieving seamless, single-command automation for application deployment and updates.
+
