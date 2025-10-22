@@ -40,7 +40,7 @@ It emphasizes essential DevOps practices such as **infrastructure automation**, 
 
 The primary goal of this task is to **showcase my ability to take an application from source code to production**, using efficient packaging, automation, and deployment strategies.  
 
-The final outcome ensures that the application can be accessed seamlessly via the server’s **public IP address or domain name** on **HTTP port 80**, mirroring real-world deployment standards.
+The outcome ensures that the application can be accessed seamlessly via the server’s **public IP address or domain name** on **HTTP port 80**, mirroring real-world deployment standards.
 
 ---
 
@@ -88,19 +88,11 @@ Below is the step-by-step process implemented in this project:
 
 ---
 
-## Project Structure
-
-```bash
-hng-devops-stage1/
-├── deploy.sh
-├── Dockerfile
-├── docker-compose.yml
-├── output.txt
-└── README.md
+---
 
 ## My Experience
 
-This project provided valuable **hands-on experience in infrastructure automation through the **HNG Internship (DevOps Track)**.
+This project provided valuable hands-on experience in infrastructure automation through the HNG Internship (DevOps Track).
 
 I designed and implemented a fully automated deployment system that integrates Docker, NGINX, and custom shell scripting achieving seamless, single-command automation for application deployment and updates.
 
@@ -110,4 +102,19 @@ Through this process, I strengthened my understanding of:
 - **Server Configuration and Management**  
 - **Container Orchestration Basics**  
 - **Real-world CI/CD Workflows**
+# hng-devops-stage1
+
+## Author
+
+**Name:** Mathias Olah  
+**Slack Username:** [@omats1](https://hng.tech/slack)  
+**Track:** DevOps  
+**GitHub:** [omats1](https://github.com/omats1)  
+**Email:** [olahmathias@gmail.com](mailto:olahmathias@gmail.com)
+
+---
+
+> **Note:**  
+> This project was developed as part of the **HNG Internship – DevOps Track**, aimed at helping participants gain **real-world experience** in **version control**, **automation**, and **CI/CD workflows**.
+
 # hng-devops-stage1
