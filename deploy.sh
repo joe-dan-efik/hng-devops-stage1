@@ -57,10 +57,10 @@ log "Deploying Docker container..."
 scp -i "$SSH_KEY" -r . "$SSH_USER@$SERVER_IP:/home/$SSH_USER/app"
 
 ssh -i "$SSH_KEY" "$SSH_USER@$SERVER_IP" <<EOF
-cd /home/$SSH_USER/app
+cd ~/Downloads/$SSH_USER/app
 docker stop hng-app || true
 docker rm hng-app || true
-docker build -t hng-app .
+docker build -t hng-app.
 docker run -d -p $APP_PORT:$APP_PORT --name hng-app hng-app
 EOF
 
