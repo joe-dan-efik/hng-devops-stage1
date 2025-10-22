@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================
 # HNG DevOps Stage 1 - Automated Deployment Script
-# Author: Ojinni Oluwafemi Nicholas
+# Author: mathias olah
 # ============================================
 
 set -e
